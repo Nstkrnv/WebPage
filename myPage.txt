@@ -151,7 +151,7 @@ function deleteFilter(){
   imreset.drawTo(imgcanvas);
 }
     </script>
-<\head>
+</head>
 <body>
 <script
 src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
@@ -178,5 +178,5 @@ src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"><
 
 <h3>Моя страничка вк </h3>
 <a href="https://vk.com/hedgehogelectro"> вот по этой ссылке </a>
-<\body>
-<\html>
+</body>
+</html>
